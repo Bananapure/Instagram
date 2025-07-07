@@ -1,3 +1,4 @@
+console.log("script.js loaded");
 // Change this to your actual Glitch backend URL!
 const endpoint = "https://aware-flower-muenster.glitch.me/collect";
 
